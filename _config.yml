@@ -20,7 +20,7 @@ title                    : "project archive "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jmuuu"
-description              : "JMU archive."
+description              : "research archive."
 url                      : "https://jmuuu.github.io"# the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Jminu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "research."
-  location         : ""
+  bio              : "research. AI accelerator, deep learning "
+  location         : "incheon"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:chokotasty@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
